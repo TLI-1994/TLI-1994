@@ -1,5 +1,5 @@
 - 👋 Hi, I’m {Tianjiao Li}@TLI-1994
-- 🎓 I'm a PhD student @ Cornell University
+- 🎓 I'm a PhD student @ Cornell University with concentration in Solid Mechanics, Computer Science and Applied Mathematics.
 - 📖 My publications: [Google Scholar](https://scholar.google.com/citations?user=XXEk38YAAAAJ&hl=en&oi=ao)
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Swift iOS development
